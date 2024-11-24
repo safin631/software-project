@@ -1,1 +1,3 @@
-# software-project
+<h1>Introduction</h1>
+A Student Progress Tracker is a software system designed to help educational institutions and teachers monitor and track students' academic performance, attendance, assignments, and overall progress over time. This system can be used by teachers, administrators, and students themselves to track grades, participation, and other factors that influence a student's academic journey.
+This project will involve creating a user-friendly application that stores and retrieves student data, displays progress reports, and offers features such as grade tracking, assignment tracking, and report generation.
